@@ -77,19 +77,7 @@ Are you interested in building and contributing to this awesome app? Contributio
 
 ## 🚀 Demo
 
-App is under development. For now it is like this. With your help we will add more features and functionalities.
-
-### IOS
-
-| Light Mode                                               | Dark Mode                                              |   
-|:--------------------------------------------------------:|:------------------------------------------------------:|
-| <img src="READMEdocs/demo-light.gif" width="320" ></img> | <img src="READMEdocs/demo-dark.gif" width="320"></img> |
-
-### Android
-
-| Light Mode                                               | Dark Mode                                              |   
-|:--------------------------------------------------------:|:------------------------------------------------------:|
-| <img src="READMEdocs/light mode.gif" width="320" ></img> | <img src="READMEdocs/dark mode.gif" width="320"></img> |
+App is under Construction.With your help we will add more features and functionalities.
 
 <!-- LICENSE -->
 
